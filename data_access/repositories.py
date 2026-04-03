@@ -1,6 +1,6 @@
 from sqlalchemy.orm import Session
 from data_access.interfaces import IPlatformRepository
-from data_access.models import User
+from data_access.models import User, Game
 
 
 class SQLitePlatformRepository(IPlatformRepository):
@@ -19,3 +19,38 @@ class SQLitePlatformRepository(IPlatformRepository):
 
     def get_all_users(self) -> list:
         return self.db.query(User).all()
+
+    def get_all_games(self):
+        return self.db.query(Game).all()
+
+    def get_game_by_id(self, game_id: int):
+        return self.db.query(Game).filter(Game.gameId == game_id).first()
+
+    def create_game(self, title: str, genre: str):
+        new_game = Game(
+            title=title,
+            genre=genre,
+            developer="Unknown",
+            game_type="Standard",
+            serverUrl="http://localhost",
+            difficulty="Medium"
+        )
+        self.db.add(new_game)
+        self.db.commit()
+        return new_game
+
+    def update_game(self, game_id: int, title: str, genre: str):
+        game = self.get_game_by_id(game_id)
+        if game:
+            game.title = title
+            game.genre = genre
+            self.db.commit()
+        return game
+
+    def delete_game(self, game_id: int):
+        game = self.get_game_by_id(game_id)
+        if game:
+            self.db.delete(game)
+            self.db.commit()
+            return True
+        return False

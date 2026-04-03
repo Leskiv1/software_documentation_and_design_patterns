@@ -64,3 +64,18 @@ class SteamPlatformService:
         )
 
         return len(raw_data)  # Повертаємо кількість оброблених рядків
+
+    def get_all_games(self):
+        return self.repository.get_all_games()
+
+    def get_game_by_id(self, game_id: int):
+        return self.repository.get_game_by_id(game_id)
+
+    def create_game(self, title: str, genre: str):
+        return self.repository.create_game(title, genre)
+
+    def update_game(self, game_id: int, title: str, genre: str):
+        return self.repository.update_game(game_id, title, genre)
+
+    def delete_game(self, game_id: int):
+        return self.repository.delete_game(game_id)
