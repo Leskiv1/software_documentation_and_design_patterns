@@ -21,3 +21,23 @@ class IPlatformRepository(ABC):
     @abstractmethod
     def get_all_users(self) -> list:
         pass
+
+    @abstractmethod
+    def get_all_games(self):
+        pass
+
+    @abstractmethod
+    def get_game_by_id(self, game_id: int):
+        pass
+
+    @abstractmethod
+    def create_game(self, title: str, genre: str):
+        pass
+
+    @abstractmethod
+    def update_game(self, game_id: int, title: str, genre: str):
+        pass
+
+    @abstractmethod
+    def delete_game(self, game_id: int):
+        pass
