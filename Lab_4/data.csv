@@ -1,0 +1,101 @@
+"unique_id","collision_id","crash_date","crash_time","vehicle_id","state_registration","vehicle_type","vehicle_make","vehicle_model","vehicle_year","travel_direction","vehicle_occupants","driver_sex","driver_license_status","driver_license_jurisdiction","pre_crash","point_of_impact","vehicle_damage","vehicle_damage_1","vehicle_damage_2","vehicle_damage_3","public_property_damage","public_property_damage_type","contributing_factor_1","contributing_factor_2"
+"10385780","100201","2012-09-07T00:00:00.000","9:03","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"19140702","4213082","2019-09-23T00:00:00.000","8:15","0553ab4d-9500-4cba-8d98-f4d7f89d5856","NY","Station Wagon/Sport Utility Vehicle","TOYT -CAR/SUV",,"2002","North","1","M","Licensed","NY","Going Straight Ahead","Left Front Bumper","Left Front Quarter Panel",,,,"N",,"Driver Inattention/Distraction","Unspecified"
+"14887647","3307608","2015-10-02T00:00:00.000","17:18","2","NY","TAXI",,,,,,,,,"Going Straight Ahead",,,,,,,,"Driver Inattention/Distraction",
+"14889754","3308693","2015-10-04T00:00:00.000","20:34","1","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"14400270","297666","2013-04-25T00:00:00.000","21:15","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Other Vehicular",
+"17044639","3434155","2016-05-02T00:00:00.000","17:35","219456","NY","4 dr sedan","MERZ -CAR/SUV",,"2015","East","2","M","Licensed","FL","Merging","Right Front Bumper","Right Front Bumper","Right Front Quarter Panel",,,"N",,"Driver Inattention/Distraction","Unsafe Lane Changing"
+"19138701","4229067","2019-10-24T00:00:00.000","13:15","c53b43d9-419a-4ab1-9361-3f2979078d89","NY","Bus","FRHT-TRUCK/BUS",,"2006","East","13","M","Licensed","NY","Parked","Left Front Quarter Panel","Left Front Quarter Panel",,,,"N",,"Unspecified","Unspecified"
+"17303317","3503027","2016-08-18T00:00:00.000","12:39","672828","NY","Station Wagon/Sport Utility Vehicle","FORD -CAR/SUV",,"2005","Southwest","2","F","Licensed","NY","Going Straight Ahead","Center Front End","Center Front End","No Damage","No Damage","No Damage","N",,"Driver Inattention/Distraction","Unspecified"
+"12254536","196425","2013-07-16T00:00:00.000","11:20","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"11804847","2975897","2012-11-26T00:00:00.000","18:12","2","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Driver Inattention/Distraction",
+"17285715","3487936","2016-07-22T00:00:00.000","15:40","554272","NY","Convertible","VOLK -CAR/SUV",,"2013","South","1","M","Licensed","NY","Stopped in Traffic","Right Rear Bumper","Right Rear Bumper","Center Back End","Left Rear Bumper",,"N",,"Unspecified","Unspecified"
+"14809587","3268858","2015-08-01T00:00:00.000","8:17","2","NJ","PASSENGER VEHICLE",,,,,,,,,"Going Straight Ahead",,,,,,,,"Passenger Distraction",
+"17307366","3499697","2016-08-13T00:00:00.000","21:05","650962","NY","Sedan","NISS -CAR/SUV",,"2015","West","2","F","Licensed","NY","Going Straight Ahead","Left Side Doors","Left Side Doors","Left Rear Quarter Panel",,,"N",,"Unspecified","Unspecified"
+"19140791","4229563","2019-10-21T00:00:00.000","17:55","86a294b4-6672-4a7e-8357-39d6d2eff9f7","PA","Sedan","BMW -CAR/SUV",,"2006","North","2","F","Licensed","PA","Going Straight Ahead","Center Front End","Right Front Bumper","Right Front Quarter Panel","Right Front Bumper",,"N",,"Unspecified","Unspecified"
+"19694316","4322767","2020-06-06T00:00:00.000","18:30","fdc195a7-8127-4c00-834d-bac78b0cf88e",,"Bike",,,,"South","1","M","Licensed","NY","Going Straight Ahead","Center Front End","No Damage","No Damage","No Damage","No Damage","N",,"Traffic Control Disregarded","Unspecified"
+"11912713","176016","2012-08-11T00:00:00.000","19:36","2","NY","BICYCLE",,,,,,,,,,,,,,,,,"Unspecified",
+"17401424","3516125","2016-09-08T00:00:00.000","14:40","764668","NY","Station Wagon/Sport Utility Vehicle","LINC -CAR/SUV",,"2015","West","1","M","Licensed","NY","Stopped in Traffic","Right Rear Quarter Panel","Right Rear Quarter Panel","Right Rear Bumper","No Damage","No Damage","N",,"Unspecified","Unspecified"
+"9879462","79561","2013-04-09T00:00:00.000","15:10","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"16952374","3412270","2016-04-01T00:00:00.000","15:46","87497","NY","Station Wagon/Sport Utility Vehicle","TOYT -CAR/SUV","TOYT 4RN","2015","South","1","M",,,"Passing","Right Front Quarter Panel","No Damage","No Damage","No Damage","No Damage","N",,"Unsafe Lane Changing","Traffic Control Disregarded"
+"19140656","4229538","2019-10-24T00:00:00.000","17:30","70e5262a-bd27-48a6-99a1-1ec659804088","NY","Station Wagon/Sport Utility Vehicle","JEEP -CAR/SUV",,"2018","North","3","F","Licensed","NY","Going Straight Ahead","Left Rear Quarter Panel","Left Rear Quarter Panel",,,,"N",,"Unspecified","Unspecified"
+"19139721","4228839","2019-10-24T00:00:00.000","16:00","5bb0b59a-ce74-4a04-9f92-1446ebfe4f46","NC","Sedan","TOYT -CAR/SUV",,"1990","South","1","M","Licensed","NC","Going Straight Ahead","Right Side Doors","Right Side Doors",,,,"N",,"Unspecified","Unspecified"
+"8704041","19615","2013-07-16T00:00:00.000","17:10","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Unspecified",
+"17222837","3542089","2016-10-17T00:00:00.000","16:00","993368","NY","Pick-up Truck","freig",,"2006","South","0","M","Licensed","NY","Going Straight Ahead","Center Back End","Center Back End",,,,"N",,"Unspecified","Unspecified"
+"9882078","328209","2014-05-01T00:00:00.000","21:16","1","FL","PASSENGER VEHICLE",,,,,,,,,"Backing",,,,,,,,"Unspecified",
+"14221219","3108421","2014-08-04T00:00:00.000","1:10","2","NY","PASSENGER VEHICLE",,,,,,,,,"Going Straight Ahead",,,,,,,,"Unspecified",
+"17277100","3579297","2016-12-13T00:00:00.000","7:55","1193510","NY","Station Wagon/Sport Utility Vehicle","HYUN -CAR/SUV",,"2007","North","0",,,,"Parked","Left Front Bumper","Left Front Bumper","Center Front End","Right Front Bumper",,"N",,"Unspecified","Unspecified"
+"11758197","1014563","2014-08-27T00:00:00.000","14:30","2","NY","PASSENGER VEHICLE",,,,,,,,,"Going Straight Ahead",,,,,,,,"Unspecified",
+"14888316","3307950","2015-10-02T00:00:00.000","20:55","2","NY","PASSENGER VEHICLE",,,,,,,,,"Changing Lanes",,,,,,,,"Unspecified",
+"17169289","3533118","2016-08-05T00:00:00.000","12:35","613344","NJ","Sedan","MERZ -CAR/SUV",,,"North",,,,,"Merging","Left Front Quarter Panel",,,,,"N",,"Driver Inattention/Distraction","Unspecified"
+"8889301","31225","2013-12-10T00:00:00.000","22:08","1","NJ","OTHER",,,,,,,,,,,,,,,,,"Unspecified",
+"8393362","1113","2012-10-26T00:00:00.000","16:20","2","NY","BICYCLE",,,,,,,,,,,,,,,,,"Unspecified",
+"19139288","4228955","2019-10-24T00:00:00.000","23:40","8e406c38-a35f-4a06-bd29-fb196b3adec0","NY","Station Wagon/Sport Utility Vehicle","NISS -CAR/SUV",,"2011","East","3","M","Permit","NY","Going Straight Ahead","Left Side Doors","Left Side Doors","Left Front Quarter Panel",,,"N",,"Unspecified","Unspecified"
+"19141039","4223842","2019-10-14T00:00:00.000","6:20","64b7fb10-b91b-4faa-8a30-baa797b1bf2c",,,,,,"East",,,,,"Going Straight Ahead",,,,,,"N",,"Driver Inattention/Distraction","Unspecified"
+"12553012","1037702","2014-10-11T00:00:00.000","21:20","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Making Right Turn",,,,,,,,"Driver Inattention/Distraction",
+"14925931","3326836","2015-11-02T00:00:00.000","11:00","2","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"14795557","3262048","2015-07-20T00:00:00.000","6:30","1","NY","TAXI",,,,,,,,,"Parked",,,,,,,,"Backing Unsafely",
+"8483670","9285","2014-02-20T00:00:00.000","17:30","2",,"OTHER",,,,,,,,,,,,,,,,,"Unspecified",
+"8404435","1009244","2014-08-16T00:00:00.000","12:50","2","NY","TAXI",,,,,,,,,"Backing",,,,,,,,"Driver Inattention/Distraction",
+"19138486","4228644","2019-10-24T00:00:00.000","10:25","8ada1656-bb64-4bba-91b5-f8872d9de368","NY","Sedan","TOYT -CAR/SUV",,"2008","East","2","M","Licensed","NY","Going Straight Ahead","Center Front End","No Damage","No Damage","No Damage","No Damage","N",,"Driver Inattention/Distraction","Unspecified"
+"19139804","4229205","2019-10-24T00:00:00.000","12:10","009f5608-f1c8-4747-91be-6b707a1fda3d","NY","Station Wagon/Sport Utility Vehicle","INFI -CAR/SUV",,"2019","East","1","M","Licensed","NY","Entering Parked Position","Right Front Bumper","Right Front Bumper","Right Front Quarter Panel","Right Front Quarter Panel","Right Front Bumper","N",,"Backing Unsafely","Driver Inattention/Distraction"
+"10957637","126113","2012-09-04T00:00:00.000","7:00","2","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Lost Consciousness",
+"19140710","4229517","2019-10-19T00:00:00.000","13:30","79c04add-66ef-4f3b-a159-120379cfa8ac",,"Bike",,,,"North","1","M",,,"Going Straight Ahead","Center Front End","Center Front End",,,,"N",,"Failure to Yield Right-of-Way","Traffic Control Disregarded"
+"9437002","57863","2012-09-25T00:00:00.000","12:50","1","NY","TAXI",,,,,,,,,,,,,,,,,"Unspecified",
+"19140446","4229127","2019-10-24T00:00:00.000","20:30","c1353cd0-388f-4e93-887d-6743b7599d2b","NY","Sedan","HOND -CAR/SUV",,"2017","West","1","F","Licensed","NY","Going Straight Ahead","Center Front End","Center Front End","Left Front Bumper","Right Front Bumper",,"N",,"Unspecified","Unspecified"
+"14826434","3277120","2015-08-14T00:00:00.000","14:20","1","NY","PASSENGER VEHICLE",,,,,,,,,"Going Straight Ahead",,,,,,,,"Unspecified",
+"19140792","4229563","2019-10-21T00:00:00.000","17:55","ca744068-6013-47f0-a661-a0fbb579eb47","NM","Station Wagon/Sport Utility Vehicle","HOND -CAR/SUV",,"2003","West","1","M","Licensed","NY","Going Straight Ahead","Left Front Bumper","Center Front End","Center Front End","Left Front Bumper",,"N",,"Unspecified","Unspecified"
+"14462100","301826","2012-11-07T00:00:00.000","12:20","2","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Unspecified",
+"8569561","12254","2012-07-22T00:00:00.000","7:10","1","VA","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"19139096","4229018","2019-10-24T00:00:00.000","21:55","6ce523e1-6a14-4bcb-8e98-b2bdc5a74542","NY","Sedan","HOND -CAR/SUV",,"2018","South","3","M","Licensed","NY","Going Straight Ahead","Center Front End","Left Front Bumper","Right Front Bumper",,,"N",,"Failure to Yield Right-of-Way","Traffic Control Disregarded"
+"10158114","2912640","2012-11-22T00:00:00.000","22:25","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Unspecified",
+"14658856","3204325","2015-04-16T00:00:00.000","15:58","2","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Going Straight Ahead",,,,,,,,"Other Vehicular",
+"15054978","3391837","2016-02-20T00:00:00.000","3:07","3","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"9273416","45437","2012-08-17T00:00:00.000","16:30","2","NY","OTHER",,,,,,,,,,,,,,,,,"Other Vehicular",
+"11314325","2960132","2012-12-18T00:00:00.000","4:20","2","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"19138903","4228921","2019-10-24T00:00:00.000","11:50","46176b3a-deda-4170-a186-7e7206b7a089","NY","Station Wagon/Sport Utility Vehicle","TOYT -CAR/SUV",,"2017","East","1","M","Licensed","NY","Slowing or Stopping","Center Front End","Center Front End","No Damage","No Damage","No Damage","N",,"Driver Inattention/Distraction","Unspecified"
+"10062169","546846","2014-07-15T00:00:00.000","10:30","3","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"19140226","4229375","2019-10-24T00:00:00.000","14:00","f37a0689-c2cb-4ae6-9317-531dffa0f185","NY","Station Wagon/Sport Utility Vehicle","TOYT -CAR/SUV",,"2011","East","1","F","Licensed","NY","Making Left Turn","Left Rear Quarter Panel","Left Rear Quarter Panel",,,,"N",,"Unspecified","Unspecified"
+"14856165","3291849","2015-09-06T00:00:00.000","22:00","1","NY","PASSENGER VEHICLE",,,,,,,,,"Stopped in Traffic",,,,,,,,"Unspecified",
+"13851173","3097477","2013-11-25T00:00:00.000","20:00","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Driver Inattention/Distraction",
+"17045096","3432659","2016-04-27T00:00:00.000","19:15","198679","NY","Station Wagon/Sport Utility Vehicle","FORD -CAR/SUV","FORD ZZZ","2000","West","1","M","Licensed","NY","Going Straight Ahead","Center Front End","Center Front End","Left Side Doors","Left Rear Quarter Panel",,"N",,"Following Too Closely","Unspecified"
+"19138211","4228473","2019-10-24T00:00:00.000","3:35","49a6bfa1-9d8f-4303-b101-a57aa7f332ea",,"Sedan","TOYT -CAR/SUV",,"2015","South","0",,,,"Going Straight Ahead","Right Front Bumper","Right Front Bumper","Center Front End",,,"Y",,"Other Vehicular","Other Vehicular"
+"19139716","4228752","2019-10-24T00:00:00.000","13:30","ee1bb541-25e0-4335-accc-6638116cecdf","OK","Sedan","NISS -CAR/SUV",,"2019","West","1","M","Licensed","NY","Making Right Turn","Left Front Bumper","Left Front Bumper",,,,"N",,"Unspecified","Unspecified"
+"17187987","3482489","2016-07-17T00:00:00.000","17:45","529156","NJ","4 dr sedan","BMW -CAR/SUV",,"2014","East","1","M","Licensed","NJ","Going Straight Ahead","Center Back End","Center Back End",,,,"N",,"Unspecified","Unspecified"
+"13097877","1011403","2014-08-20T00:00:00.000","10:00","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Slowing or Stopping",,,,,,,,"Unspecified",
+"19138997","4228597","2019-10-24T00:00:00.000","8:30","42998a22-2718-472b-a186-110eef8eb18a","NY","Sedan","TOYT -CAR/SUV",,"2010","West","1","F","Licensed","NY","Going Straight Ahead","Left Rear Quarter Panel","Left Rear Quarter Panel","Left Side Doors",,,"N",,"Unspecified","Unspecified"
+"10230895","1034629","2014-10-07T00:00:00.000","15:05","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Going Straight Ahead",,,,,,,,"Turning Improperly",
+"17179435","3499115","2016-08-10T00:00:00.000","13:05","634943","NY","Flat Bed","FRHT-TRUCK/BUS",,"2015","Southeast","1","M","Licensed","NY","Making Right Turn","Trailer","Trailer",,,,"N",,"Turning Improperly","Oversized Vehicle"
+"14903590","3315642","2015-10-14T00:00:00.000","5:00","1","TX","LARGE COM VEH(6 OR MORE TIRES)",,,,,,,,,"Making Right Turn",,,,,,,,"Physical Disability",
+"10385619","2927027","2012-08-26T00:00:00.000","16:29","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Fatigued/Drowsy",
+"14831062","3279405","2015-08-17T00:00:00.000","15:47","1","NY","PASSENGER VEHICLE",,,,,,,,,"Going Straight Ahead",,,,,,,,"Failure to Yield Right-of-Way",
+"12313986","2992280","2013-07-15T00:00:00.000","17:00","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Fatigued/Drowsy",
+"14842705","3285154","2015-08-27T00:00:00.000","7:20","1","NY","PASSENGER VEHICLE",,,,,,,,,"Making Left Turn",,,,,,,,"Prescription Medication",
+"8531488","10017","2012-11-12T00:00:00.000","16:55","2","GA","SPORT UTILITY / STATION WAGON",,,,,,,,,,,,,,,,,"Unspecified",
+"13233679","3045325","2013-04-06T00:00:00.000","7:05","1","NY","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"10055389","86647","2013-03-25T00:00:00.000","7:50","1","NY","VAN",,,,,,,,,,,,,,,,,"Unspecified",
+"15029165","3378782","2016-01-27T00:00:00.000","8:30","2","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"19139454","4228826","2019-10-24T00:00:00.000","9:20","cd5ccb9e-1de7-47af-bfc2-53ee8b0812a6","NY","4 dr sedan","NISS -CAR/SUV",,"2000","North","1","F","Licensed","NY","Backing","Center Back End","Center Back End",,,,"N",,"Backing Unsafely","Driver Inexperience"
+"14634311","3194230","2015-03-26T00:00:00.000","15:00","1","NY","PICK-UP TRUCK",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"15061195","3394984","2016-02-25T00:00:00.000","10:11","1","NY","PASSENGER VEHICLE",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"19140448","4229131","2019-10-24T00:00:00.000","22:20","a6920a97-5a7d-4f38-b7fe-3545f8c7e562","NY","Sedan","TOYT -CAR/SUV",,"2019","West","1","F","Licensed","NY","Going Straight Ahead","Left Front Bumper","Left Front Bumper","Center Front End","Right Front Bumper",,"N",,"Unspecified","Unspecified"
+"15079321","3404065","2016-03-11T00:00:00.000","21:31","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Going Straight Ahead",,,,,,,,"Fatigued/Drowsy",
+"19140660","4229698","2019-10-23T00:00:00.000","23:20","d9fafdef-41d3-4a65-8d98-40fc8693ff82","NY","Station Wagon/Sport Utility Vehicle","GMC -CAR/SUV",,"2016","West","0",,,,"Parked","Right Front Bumper","Right Front Bumper","Left Front Bumper","Center Front End","Right Front Quarter Panel","N",,"Unspecified","Unspecified"
+"19140322","4229321","2019-10-24T00:00:00.000","15:00","47b93a4c-8f9d-40f1-a007-48c1d94a7781",,,,,,,,,,,,,,,,,"Unspecified",,,
+"13230693","240527","2012-12-15T00:00:00.000","16:00","2","NJ","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"14672130","3209911","2015-04-27T00:00:00.000","16:30","1","NJ","SPORT UTILITY / STATION WAGON",,,,,,,,,"Backing",,,,,,,,"Unspecified",
+"19139740","4229434","2019-10-24T00:00:00.000","18:20","775bcb70-da96-4f01-bf71-f4b0cc3a4428","NY","Sedan","KIA -CAR/SUV",,"2004","West","4","M","Permit","NY","Backing","Center Back End","Center Back End","Left Rear Bumper","No Damage","No Damage","N",,"Backing Unsafely","Driver Inexperience"
+"14648143","3199977","2015-04-08T00:00:00.000","21:55","2","NY","PASSENGER VEHICLE",,,,,,,,,"Starting from Parking",,,,,,,,"Fatigued/Drowsy",
+"19138956","4228914","2019-10-24T00:00:00.000","16:50","30fd483d-0018-45ad-9d1a-25c82b7e3c7a","NY","Bus","IC",,"2010","East","1","F","Licensed","NY","Going Straight Ahead","Left Front Bumper","Left Front Bumper",,,,"Unspecified",,"Unspecified","Unspecified"
+"19139066","4229005","2019-10-24T00:00:00.000","16:00","009b7e5e-29da-445b-9276-970bb78ec945",,,,,,,,,,,,,,,,,"Unspecified",,,
+"9977047","335025","2014-05-13T00:00:00.000","16:50","2","NY","PASSENGER VEHICLE",,,,,,,,,"Slowing or Stopping",,,,,,,,"Traffic Control Disregarded",
+"8395403","2148","2013-03-17T00:00:00.000","16:00","2","NY","TAXI",,,,,,,,,,,,,,,,,"Unspecified",
+"14519990","3146846","2015-01-02T00:00:00.000","17:20","2","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Going Straight Ahead",,,,,,,,"Unspecified",
+"19139241","4228592","2019-10-24T00:00:00.000","7:40","48ae5413-c7b5-460d-9faf-779de08209dc","NY","Station Wagon/Sport Utility Vehicle","HOND -CAR/SUV",,"2018","West","2","F","Licensed","NY","Making Right Turn","Right Rear Quarter Panel","Right Rear Quarter Panel",,,,"N",,"Unspecified","Unspecified"
+"8532175","10366","2013-01-30T00:00:00.000","1:30","1","NY","TAXI",,,,,,,,,,,,,,,,,"Unspecified",
+"14603135","3181296","2015-03-05T00:00:00.000","18:30","1","NY","SPORT UTILITY / STATION WAGON",,,,,,,,,"Parked",,,,,,,,"Unspecified",
+"14747912","3240710","2015-06-15T00:00:00.000","17:12","1","NY","PASSENGER VEHICLE",,,,,,,,,"Stopped in Traffic",,,,,,,,"Unspecified",
+"19139175","4229059","2019-10-24T00:00:00.000","14:05","487215a5-cfe8-4a9a-9a23-7a341c5dedb1","NY","Box Truck","FORD-TRUCK/BUS",,"2016","North","1","M",,"NY","Going Straight Ahead","Right Side Doors","Right Side Doors","No Damage","No Damage","No Damage","N",,"Driver Inattention/Distraction","Unspecified"
+"11161855","138062","2013-05-29T00:00:00.000","21:55","3","VA","PASSENGER VEHICLE",,,,,,,,,,,,,,,,,"Unspecified",
+"17072438","3444930","2016-05-20T00:00:00.000","23:30","328178","NY","Motorcycle","YAMA -MCL",,"2012","North","1","M","Licensed","CA","Going Straight Ahead","Center Front End","Other","Other","Other","Other","Y",,"Unspecified","Obstruction/Debris"
+"19139591","4228907","2019-10-24T00:00:00.000","16:47","4525614b-2256-446f-be38-9d425b5ec7ba","NY","Station Wagon/Sport Utility Vehicle","CHEV -CAR/SUV",,"2016","West","1","M","Licensed","NY","Making Right Turn","Left Front Bumper","Left Front Quarter Panel",,,,"N",,"Unspecified","Unspecified"

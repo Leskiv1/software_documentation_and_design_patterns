@@ -1,0 +1,17 @@
+{
+  "storage_type": "firestore",
+  "data_file": "data.csv",
+  "redis": {
+    "host": "localhost",
+    "port": 6379
+  },
+  "kafka": {
+    "bootstrap_servers": "localhost:9092",
+    "topic": "nyc_collisions"
+  },
+  "firestore": {
+    "collection_name": "$ENV_FIRESTORE_COLLECTION",
+    "project_id": "$ENV_FIRESTORE_PROJECT_ID",
+    "service_account_file": "$ENV_FIRESTORE_KEY_PATH"
+  }
+}
